@@ -15,4 +15,3 @@ Alle bestaande open en gesloten issues gecontroleerd: #1–14. Bestaande opmerki
 Eigenaar: deze repo is de issue-tracker; hier staan uitsluitend feedbackdocumentatie en afbeeldingen. Uitvoeringsverantwoordelijkheid in fitness-app, fitness-backend, novaro-shared of novaro-admin moet bij implementatie uit codeonderzoek volgen. Geen appcode aangepast.
 
 Een onafhankelijke tweede agent controleerde dekking, duplicaten en nuance. Er is geen actuele appreproductie uitgevoerd; de import registreert historische testbevindingen.
-

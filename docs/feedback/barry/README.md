@@ -1,5 +1,7 @@
 # Testfeedback Barry
 
+[Overzicht van alle issues, gegroepeerd per onderwerp](issues.md)
+
 Bronnen: Novaro (17 april 2026), Novaro 1.0.0 build 10 en build 12 (6 mei 2026).
 
 Deze map bevat de 62 oorspronkelijke testscreenshots bij de GitHub-issues. De eerste mail noemt geen build. De screenshots van de eerste mail zijn teruggehaald uit Roels antwoord; de stijlreferentie die hij zelf toevoegde (image034.png) is bewust overgeslagen. Bestandsnummers zijn daarom niet aaneengesloten.
@@ -33,4 +35,3 @@ De screenshots bevatten door de tester ingevoerde testwaarden. Ze tonen de toenm
 - Genereren en plannen: maak wachttijd en de onderste actieknop duidelijk
 - Uitloggen: oude profieldata blijven zichtbaar na sluiten van Welcome back
 - Home en Voortgang: herstel kaartuitlijning en kalenderafstand op iPhone 11
-

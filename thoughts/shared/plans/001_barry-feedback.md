@@ -15,4 +15,3 @@
 - Alle screenshots zijn valide PNGs; alleen testafbeeldingen, geen mails, credentials of databasedumps.
 - Geen claims dat historische dev-fixes actueel gevalideerd zijn.
 - PHP/JavaScript-checks en WordPress-validatie zijn niet van toepassing: uitsluitend Markdown en PNGs in een afzonderlijke Novaro-tracker.
-
